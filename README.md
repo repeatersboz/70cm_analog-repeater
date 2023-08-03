@@ -2,7 +2,7 @@
 
 Scripts for the analog 70cm repeater
 
-## Common:
+## Controller
 - RPi up Led
 - Reboot / Shutdown Led & Switch
 - Case fan controller
